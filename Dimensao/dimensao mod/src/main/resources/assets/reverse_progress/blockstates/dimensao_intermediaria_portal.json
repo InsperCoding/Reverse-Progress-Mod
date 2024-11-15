@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "reverse_progress:block/dimensao_intermediaria_portal_ew"
+    },
+    "axis=x": {
+      "model": "reverse_progress:block/dimensao_intermediaria_portal_ns"
+    }
+  }
+}

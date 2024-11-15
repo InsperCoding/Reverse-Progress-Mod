@@ -1,0 +1,60 @@
+{
+  "_fv": 69,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "mutated_ice_flats"
+      },
+      {
+        "value": "frozen_river"
+      },
+      {
+        "value": "deep_frozen_ocean"
+      },
+      {
+        "value": "frozen_ocean"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.GLASS"
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "DENY",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "Blocks.END_BRICKS"
+    },
+    "portalParticles": {
+      "value": "END_ROD"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "enableIgniter": true,
+    "igniterName": "Portal Key",
+    "igniterRarity": "UNCOMMON",
+    "specialInformation": {
+      "fixedValue": [
+        "Chave para acionar o portal de end stone brick"
+      ]
+    },
+    "creativeTabs": [
+      {
+        "value": "TOOLS"
+      }
+    ],
+    "texture": "minecraft:ender_pearl",
+    "portalTexture": "minecraft:purple_glazed_terracotta",
+    "enablePortal": true
+  }
+}
